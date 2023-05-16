@@ -1,0 +1,17 @@
+{
+  "name": "desafio-projeto01",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Desafio - Projeto 01 - RocketSeat",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "Romulo Lessa",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.3.10",
+    "moment": "^2.29.4"
+  }
+}
